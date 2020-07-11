@@ -4,19 +4,19 @@
   "repository": "https://github.com/kyb3r/modmail",
   "env": {
     "TOKEN": {
-      "description": "Your discord bot's token.",
+      "description": "NzMxMDQ3NDY3OTMxNDAyMjQz.XwlOqA.9V1K_fw9uoRVQLeUqDcyKdagHrQ",
       "required": true
     },
     "GUILD_ID": {
-      "description": "The id for the server you are hosting this bot for.",
+      "description": "578073187892592641",
       "required": true
     },
     "OWNERS": {
-      "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
+      "description": "690241313873985540",
       "required": true
     },
     "CONNECTION_URI": {
-      "description": "The connection URI for your database.",
+      "description": "mongodb+srv://maiil-maiil:<Hola12345>@cluster0.9djoe.mongodb.net",
       "required": true
     },
     "DATABASE_TYPE": {
@@ -24,7 +24,7 @@
       "required": false
     },
     "LOG_URL": {
-      "description": "The url of the log viewer app for viewing self-hosted logs.",
+      "description": "https://mod-mail-logs-dsu.herokuapp.com/",
       "required": true
     }
   }
